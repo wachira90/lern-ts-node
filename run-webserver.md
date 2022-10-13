@@ -30,6 +30,15 @@ npm install typescript ts-node @types/node @types/express --save-dev
 
 ````
 
+#### OR
+
+````
+yarn add -s express
+
+yarn add -s typescript ts-node @types/node @types/express
+
+````
+
 ## How to Create your tsconfig.json
 
 npx tsc --init
